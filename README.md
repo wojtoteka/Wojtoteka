@@ -44,8 +44,8 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Wojtoteka/litho-studio">
-<img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Wojtoteka&repo=litho-studio&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff&icon_color=2DD4BF" alt="Litho Studio" />
+<a href="https://github.com/wojtoteka/FishingParty_apk">
+<img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Wojtoteka&repo=litho-studio&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff&icon_color=2DD4BF" alt="FishingParty" />
 </a>
 
 </td>
