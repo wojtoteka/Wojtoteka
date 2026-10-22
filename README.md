@@ -108,13 +108,6 @@
 
 <br/>
 
-## 📊 Statystyki
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/Wojtoteka?style=for-the-badge&logo=github&label=Obserwuj%C4%85cy&color=050505&labelColor=050505&logoColor=2DD4BF" height="28" alt="Obserwujący" />
-
-<img src="https://komarev.com/ghpvc/?username=Wojtoteka&style=for-the-badge&color=050505&label=Wy%C5%9Bwietlenia+profilu" height="28" alt="Wyświetlenia profilu" />
 
 </div>
 
